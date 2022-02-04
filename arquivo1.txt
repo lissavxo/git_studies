@@ -1,2 +1,4 @@
 Oi eu sou um arquivo de  texto.
 Agora eu mudei, tenho mais linhas.
+Eu vou ser mais tambem
+mais uma mudanca
